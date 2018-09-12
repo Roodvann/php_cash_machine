@@ -1,5 +1,5 @@
 <?php
-header('Refresh: 6; URL=form.php');
+header('Refresh: 12; URL=form.php');
 ?>
 <!doctype html>
 <html lang="en">
